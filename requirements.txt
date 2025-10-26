@@ -202,3 +202,5 @@ psycopg2-binary
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
+psycopg2-binary==2.9.7
+    # via -r requirements.in
